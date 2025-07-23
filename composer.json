@@ -1,11 +1,11 @@
 {
-    "name": "knightowl1031/php-precision-ceil",
+    "name": "knightowl/php-precision-ceil",
     "description": "PHP helper for ceiling numbers to a specific decimal precision.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Knightowl1031\\PrecisionCeil\\": "src/"
+            "Knightowl\\PhpPrecisionCeil\\": "src/"
         }
     },
     "authors": [

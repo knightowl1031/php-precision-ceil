@@ -1,6 +1,6 @@
 <?php
 
-namespace KnightOwl1031\PhpPrecisionCeil\Helpers;
+namespace KnightOwl\PhpPrecisionCeil\Helpers;
 
 class Precision
 {
