@@ -1,6 +1,6 @@
 {
     "name": "knightowl/php-precision-ceil",
-    "description": "PHP helper for ceiling numbers to a specific decimal precision.",
+    "description": "PHP helper for formatting numbers to a specific decimal precision.",
     "type": "library",
     "license": "MIT",
     "autoload": {
