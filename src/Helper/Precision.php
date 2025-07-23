@@ -1,8 +1,8 @@
 <?php
 
-namespace KnightOwl1031\LaravelPrecisionCeil\Helpers;
+namespace KnightOwl1031\PhpPrecisionCeil\Helpers;
 
-class Number
+class Precision
 {
     /**
      * Rounds a number up to a specified decimal precision.
