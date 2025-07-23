@@ -14,7 +14,7 @@ composer require knightowl1031/php-precision-ceil
 The package provides a static method ceilPrecision within the Precision helper class.
 
 PHP
-
+```php
 <?php
 
 // Make sure to include Composer's autoloader in your project's main script
@@ -52,6 +52,7 @@ Parameters
 $number (float): The number to round.
 
 $precision (int): The number of decimal places to round to. Defaults to 2.
+```
 
 Contributing
 Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request on the GitHub repository.
